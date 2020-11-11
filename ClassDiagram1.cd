@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="StudentCharacter.Custom">
+    <Position X="6" Y="4.25" Width="4.5" />
+    <Members>
+      <Field Name="ActChangeSize" Hidden="true" />
+      <Field Name="Autorization" Hidden="true" />
+      <Field Name="baseForm" Hidden="true" />
+      <Field Name="btnAddToBase" Hidden="true" />
+      <Field Name="btnCreateWord" Hidden="true" />
+      <Field Name="btnEvents" Hidden="true" />
+      <Field Name="btnGroupe" Hidden="true" />
+      <Field Name="btnLoadFromBase" Hidden="true" />
+      <Field Name="btnOlympiads" Hidden="true" />
+      <Field Name="btnOrders" Hidden="true" />
+      <Field Name="btnPersonalQuality" Hidden="true" />
+      <Field Name="cbAbilities" Hidden="true" />
+      <Field Name="cbCourse" Hidden="true" />
+      <Field Name="cbCriticism" Hidden="true" />
+      <Field Name="cbDiscipline" Hidden="true" />
+      <Field Name="cbGender" Hidden="true" />
+      <Field Name="cbGroupe" Hidden="true" />
+      <Field Name="cbLates" Hidden="true" />
+      <Field Name="cbRelationship" Hidden="true" />
+      <Field Name="ChangeUser" Hidden="true" />
+      <Field Name="chbCommercial" Hidden="true" />
+      <Field Name="chbHead" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="CurrentTable" Hidden="true" />
+      <Method Name="Custom" Hidden="true" />
+      <Method Name="Custom_FormClosing" Hidden="true" />
+      <Method Name="Custom_Paint" Hidden="true" />
+      <Method Name="Custom_SizeChanged" Hidden="true" />
+      <Field Name="Dark" Hidden="true" />
+      <Method Name="Dark_Click" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="dtBirthDate" Hidden="true" />
+      <Field Name="EventsInd" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="isConnected" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label10" Hidden="true" />
+      <Field Name="label11" Hidden="true" />
+      <Field Name="label12" Hidden="true" />
+      <Field Name="label14" Hidden="true" />
+      <Field Name="label15" Hidden="true" />
+      <Field Name="label16" Hidden="true" />
+      <Field Name="label17" Hidden="true" />
+      <Field Name="label18" Hidden="true" />
+      <Field Name="label19" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label20" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="label9" Hidden="true" />
+      <Field Name="lbEvents" Hidden="true" />
+      <Field Name="lblStatus" Hidden="true" />
+      <Field Name="lblTable" Hidden="true" />
+      <Field Name="lblUser" Hidden="true" />
+      <Field Name="lbOlympiads" Hidden="true" />
+      <Field Name="lbOrders" Hidden="true" />
+      <Field Name="lbPersonalQuality" Hidden="true" />
+      <Field Name="Light" Hidden="true" />
+      <Method Name="LightTheme_click" Hidden="true" />
+      <Field Name="MenuControl" Hidden="true" />
+      <Field Name="menuStrip1" Hidden="true" />
+      <Field Name="mysqlConnection" Hidden="true" />
+      <Field Name="neededControls" Hidden="true" />
+      <Field Name="numMidMark" Hidden="true" />
+      <Field Name="OlympiadsInd" Hidden="true" />
+      <Field Name="OrdersInd" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="QualChangeSize" Hidden="true" />
+      <Field Name="QualitiesInd" Hidden="true" />
+      <Field Name="resolution" Hidden="true" />
+      <Field Name="sampleFile" Hidden="true" />
+      <Field Name="SettingsForm" Hidden="true" />
+      <Field Name="tbMidName" Hidden="true" />
+      <Field Name="tbStudName" Hidden="true" />
+      <Field Name="tbStudSurname" Hidden="true" />
+      <Field Name="textProcessor" Hidden="true" />
+      <Field Name="Theme" Hidden="true" />
+      <Field Name="User" Hidden="true" />
+      <Field Name="настройкиToolStripMenuItem" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>f0oFAChANOACABAwCQiAYiACGAgAgghoIUl4gYBQCHI=</HashCode>
+      <FileName>Custom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentCharacter.Base">
+    <Position X="0.5" Y="0.5" Width="5.5" />
+    <Members>
+      <Field Name="btnClearSearch" Hidden="true" />
+      <Field Name="btnCreateAllChar" Hidden="true" />
+      <Field Name="btnFind" Hidden="true" />
+      <Field Name="btnSwitch" Hidden="true" />
+      <Field Name="btnToConst" Hidden="true" />
+      <Field Name="cbGender" Hidden="true" />
+      <Field Name="cbSubject" Hidden="true" />
+      <Field Name="chbBirthDate" Hidden="true" />
+      <Field Name="chbFamily" Hidden="true" />
+      <Field Name="chbGender" Hidden="true" />
+      <Field Name="chbMark" Hidden="true" />
+      <Field Name="chbPass" Hidden="true" />
+      <Field Name="chbPassSearch" Hidden="true" />
+      <Field Name="chbSubject" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="Connection" Hidden="true" />
+      <Field Name="ContextDelete" Hidden="true" />
+      <Field Name="contextMenuStrip1" Hidden="true" />
+      <Field Name="ContextSelectAll" Hidden="true" />
+      <Field Name="CurrentTable" Hidden="true" />
+      <Field Name="CustomForm" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="dtYear" Hidden="true" />
+      <Field Name="dtYearLast" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="isConnected" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="lblStatus" Hidden="true" />
+      <Field Name="lblSubject" Hidden="true" />
+      <Field Name="lblTableUser" Hidden="true" />
+      <Field Name="llCloseSearch" Hidden="true" />
+      <Field Name="llOpenSearch" Hidden="true" />
+      <Field Name="MenuData" Hidden="true" />
+      <Field Name="MenuExport" Hidden="true" />
+      <Field Name="MenuGroups" Hidden="true" />
+      <Field Name="MenuImport" Hidden="true" />
+      <Field Name="menuStrip1" Hidden="true" />
+      <Field Name="MenuSubjects" Hidden="true" />
+      <Field Name="numMark" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="pnlMarksFind" Hidden="true" />
+      <Field Name="pnlSearch" Hidden="true" />
+      <Field Name="pnlTable" Hidden="true" />
+      <Field Name="sampleFile" Hidden="true" />
+      <Field Name="studentsTable" Hidden="true" />
+      <Field Name="Subjects" Hidden="true" />
+      <Field Name="TableType" Hidden="true" />
+      <Field Name="tbName" Hidden="true" />
+      <Field Name="User" Hidden="true" />
+      <Field Name="UserName" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQINAMc+ICIkglFogRLhQUAKoAACkAgDCaZQEQMBEBg=</HashCode>
+      <FileName>Base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentCharacter.Autorization">
+    <Position X="6" Y="0.5" Width="4.25" />
+    <Members>
+      <Method Name="Autorization" Hidden="true" />
+      <Field Name="btnApply" Hidden="true" />
+      <Field Name="btnBack" Hidden="true" />
+      <Field Name="btnDoRegistration" Hidden="true" />
+      <Field Name="btnEnter" Hidden="true" />
+      <Field Name="btnRegistration" Hidden="true" />
+      <Field Name="cbBase" Hidden="true" />
+      <Field Name="cbSpecialities" Hidden="true" />
+      <Field Name="chbRemember" Hidden="true" />
+      <Field Name="color1" Hidden="true" />
+      <Field Name="color2" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="connection" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label10" Hidden="true" />
+      <Field Name="label11" Hidden="true" />
+      <Field Name="label12" Hidden="true" />
+      <Field Name="label13" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="label9" Hidden="true" />
+      <Field Name="lbSample1" Hidden="true" />
+      <Field Name="lbSample2" Hidden="true" />
+      <Field Name="lbSample3" Hidden="true" />
+      <Field Name="litecommand" Hidden="true" />
+      <Field Name="numGroupId" Hidden="true" />
+      <Field Name="numStartYear" Hidden="true" />
+      <Field Name="pnlAutorization" Hidden="true" />
+      <Field Name="pnlCreateTable" Hidden="true" />
+      <Field Name="pnlRegistration" Hidden="true" />
+      <Field Name="tbApplyParol" Hidden="true" />
+      <Field Name="tbLogin" Hidden="true" />
+      <Field Name="tbNewLogin" Hidden="true" />
+      <Field Name="tbNewMidName" Hidden="true" />
+      <Field Name="tbNewName" Hidden="true" />
+      <Field Name="tbNewParol" Hidden="true" />
+      <Field Name="tbNewSurname" Hidden="true" />
+      <Field Name="tbParol" Hidden="true" />
+      <Field Name="transliter" Hidden="true" />
+      <Field Name="User" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>8GAREYAAACFAGBAAigGhCJQCEAEAgBDAgAAgAIBAAEQ=</HashCode>
+      <FileName>Autorization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentCharacter.AdvancedInfo">
+    <Position X="6" Y="8.25" Width="4.25" />
+    <Members>
+      <Field Name="btnTransfer" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="Connection" Hidden="true" />
+      <Field Name="Custom" Hidden="true" />
+      <Field Name="dgvBase" Hidden="true" />
+      <Field Name="dgvStudent" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="dtDate" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="lblInfoType" Hidden="true" />
+      <Field Name="lblName" Hidden="true" />
+      <Field Name="lblTextDate" Hidden="true" />
+      <Field Name="PersonalInfo" Hidden="true" />
+      <Field Name="tbApply" Hidden="true" />
+      <Field Name="tbName" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQIAgAAgACAUEDEAAACgAAAKgEAAAAAAAAAAAASCAAI=</HashCode>
+      <FileName>AdvancedInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentCharacter.Settings">
+    <Position X="0.5" Y="5.75" Width="5.5" />
+    <Members>
+      <Field Name="btnApply" Hidden="true" />
+      <Field Name="btnBack" Hidden="true" />
+      <Field Name="btnCreateTable" Hidden="true" />
+      <Field Name="btnDelete" Hidden="true" />
+      <Field Name="cbBase" Hidden="true" />
+      <Field Name="cbSpecialities" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="Connection" Hidden="true" />
+      <Field Name="CustomForm" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label10" Hidden="true" />
+      <Field Name="label11" Hidden="true" />
+      <Field Name="label12" Hidden="true" />
+      <Field Name="label13" Hidden="true" />
+      <Field Name="lbTables" Hidden="true" />
+      <Field Name="numGroupId" Hidden="true" />
+      <Field Name="numStartYear" Hidden="true" />
+      <Field Name="pnlNewGroup" Hidden="true" />
+      <Field Name="pnlUserGroups" Hidden="true" />
+      <Method Name="Settings" Hidden="true" />
+      <Field Name="User" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>8AABAAAAACAAABEAAAKgCJACAAgBAABAAQBAAJAAAcQ=</HashCode>
+      <FileName>Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentCharacter.Subjects">
+    <Position X="0.5" Y="10.25" Width="3.75" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Method Name="Subjects" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAADAEABIAAACJAAACoAAAgAAAAAAAAAAAQAI=</HashCode>
+      <FileName>Subjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentCharacter.DataTransistor">
+    <Position X="4.5" Y="10.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>DataTransistor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentCharacter.Sqlite">
+    <Position X="1" Y="14" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Sqlite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentCharacter.Student">
+    <Position X="1" Y="12.25" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAACAUQCAAIAAACAAJAEAAQAAAAAAAAgEEARAAKCAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentCharacter.TextProcessor">
+    <Position X="4.5" Y="12" Width="4.5" />
+    <Members>
+      <Field Name="FileName" Hidden="true" />
+      <Field Name="Missing" Hidden="true" />
+      <Field Name="Newfile" Hidden="true" />
+      <Field Name="ReplaceDict" Hidden="true" />
+      <Field Name="Samplefile" Hidden="true" />
+      <Field Name="textProcessor" Hidden="true" />
+      <Method Name="TextProcessor" Hidden="true" />
+      <Field Name="WordApp" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAgBAAAAIAAAAAAAAAAAIAAABAAASAACgABAAABAACA=</HashCode>
+      <FileName>TextProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentCharacter.User">
+    <Position X="0.5" Y="8.5" Width="5.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAgAAAAAYAACAAAQAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
